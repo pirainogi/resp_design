@@ -1,3 +1,5 @@
+followed along with the codealong from https://internetingishard.com/html-and-css/responsive-design/ by Oliver James 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
